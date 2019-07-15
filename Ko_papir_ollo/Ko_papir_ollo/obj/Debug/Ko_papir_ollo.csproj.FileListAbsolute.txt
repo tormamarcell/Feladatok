@@ -1,0 +1,7 @@
+C:\Users\torma.marcell\source\repos\Ko_papir_ollo\Ko_papir_ollo\bin\Debug\Ko_papir_ollo.exe.config
+C:\Users\torma.marcell\source\repos\Ko_papir_ollo\Ko_papir_ollo\bin\Debug\Ko_papir_ollo.exe
+C:\Users\torma.marcell\source\repos\Ko_papir_ollo\Ko_papir_ollo\bin\Debug\Ko_papir_ollo.pdb
+C:\Users\torma.marcell\source\repos\Ko_papir_ollo\Ko_papir_ollo\obj\Debug\Ko_papir_ollo.csprojAssemblyReference.cache
+C:\Users\torma.marcell\source\repos\Ko_papir_ollo\Ko_papir_ollo\obj\Debug\Ko_papir_ollo.csproj.CoreCompileInputs.cache
+C:\Users\torma.marcell\source\repos\Ko_papir_ollo\Ko_papir_ollo\obj\Debug\Ko_papir_ollo.exe
+C:\Users\torma.marcell\source\repos\Ko_papir_ollo\Ko_papir_ollo\obj\Debug\Ko_papir_ollo.pdb

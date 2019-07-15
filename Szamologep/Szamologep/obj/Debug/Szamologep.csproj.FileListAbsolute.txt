@@ -1,0 +1,7 @@
+C:\Users\torma.marcell\source\repos\Szamologep\Szamologep\bin\Debug\Szamologep.exe.config
+C:\Users\torma.marcell\source\repos\Szamologep\Szamologep\bin\Debug\Szamologep.exe
+C:\Users\torma.marcell\source\repos\Szamologep\Szamologep\bin\Debug\Szamologep.pdb
+C:\Users\torma.marcell\source\repos\Szamologep\Szamologep\obj\Debug\Szamologep.csprojAssemblyReference.cache
+C:\Users\torma.marcell\source\repos\Szamologep\Szamologep\obj\Debug\Szamologep.csproj.CoreCompileInputs.cache
+C:\Users\torma.marcell\source\repos\Szamologep\Szamologep\obj\Debug\Szamologep.exe
+C:\Users\torma.marcell\source\repos\Szamologep\Szamologep\obj\Debug\Szamologep.pdb

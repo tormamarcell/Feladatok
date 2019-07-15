@@ -1,0 +1,7 @@
+C:\Users\torma.marcell\source\repos\SzamkitalaloJatek\SzamkitalaloJatek\bin\Debug\SzamkitalaloJatek.exe.config
+C:\Users\torma.marcell\source\repos\SzamkitalaloJatek\SzamkitalaloJatek\bin\Debug\SzamkitalaloJatek.exe
+C:\Users\torma.marcell\source\repos\SzamkitalaloJatek\SzamkitalaloJatek\bin\Debug\SzamkitalaloJatek.pdb
+C:\Users\torma.marcell\source\repos\SzamkitalaloJatek\SzamkitalaloJatek\obj\Debug\SzamkitalaloJatek.csprojAssemblyReference.cache
+C:\Users\torma.marcell\source\repos\SzamkitalaloJatek\SzamkitalaloJatek\obj\Debug\SzamkitalaloJatek.csproj.CoreCompileInputs.cache
+C:\Users\torma.marcell\source\repos\SzamkitalaloJatek\SzamkitalaloJatek\obj\Debug\SzamkitalaloJatek.exe
+C:\Users\torma.marcell\source\repos\SzamkitalaloJatek\SzamkitalaloJatek\obj\Debug\SzamkitalaloJatek.pdb
